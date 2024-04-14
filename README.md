@@ -1,25 +1,25 @@
-# jekyll-theme-console
+# To Hear You Again: Console Theme
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
+## tohearyouagain-theme-console
 
-<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenrec-dark.gif" width="550" title="Screenshot">
+A Jekyll theme for personal use via Github Pages, based on b2a3e8's and niclimcy's [theme of the same name](https://github.com/b2a3e8/jekyll-theme-console).
 
-## Demo
+Currently, this fork is virtually identical to the original repository. I'm no computer programmer or software developer BY ANY MEANS and I do all of this for personal expression, as a hobby in my free time. If you stumble upon this repo, keep in mind it probably won't serve anyone's needs except mine...and even then, it might not even work.
 
-[dark style](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-dark)):
+Below are the features I want to add in due course:
 
-[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-dark.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/)
+- More post categories and directories to match
+- Proper centering of images (CSS gives me headaches)
+- Automatic redaction of predefined keywords
+- Animated watermark to obscure content on certain pages
+- JavaScript functionality to enable/disable certain features based on user input
+
+Naturally, the top priority is for me to figure out how to make my Github Pages website actually use this remote theme.
 
 
-[light style](https://b2a3e8.github.io/jekyll-theme-console-demo-light/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-light)):
+---
 
-[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-light.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-
-
-[hacker style](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/) ([source code](https://github.com/b2a3e8/jekyll-theme-console-demo-hacker)):
-
-[<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenshot-hacker.png" width="350" title="Screenshot">](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
+# Usage Information
 
 ## Installation
 
